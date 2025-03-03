@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository contains the analysis code and documentation for our paper investigating [brief description of your research]. The analysis primarily focuses on [main aspects of your analysis, e.g., "single-cell RNA sequencing analysis of immune cell populations in melanoma samples"].
+Brief description
 
 ## 🗂️ Repository Structure
 
@@ -30,17 +30,14 @@ Python scripts use mostly standard libraries such as
 
 ## 📊 Analysis Workflow
 
-1. **Data Preprocessing** (`scripts/preprocessing/`)
-   - `01_quality_control.py`: Initial QC and filtering
-   - `02_normalization.py`: Data normalization and scaling
+1. **R Codes** (`R/`)
+   - Contain analyses related to circaplot visualization  
+   - A script for integration and DEA of Gide, Riaz and Hugo count data
 
-2. **Main Analysis** (`scripts/analysis/`)
-   - `01_clustering.py`: Cell clustering analysis
-   - `02_differential_expression.py`: DE analysis
-   
-3. **Visualization** (`scripts/visualization/`)
-   - `01_umap_plots.py`: UMAP visualization scripts
-   - `02_violin_plots.py`: Gene expression visualization
+2. **Jupyter Notebooks** (`Jupyter/`)
+   - Preprocessing of TPM-normalized data
+   - Prime model development and testing the predictive performance
+   - DEA and other analyses of Li cohort scRNA-seq data
 
 ## 🔍 Data Availability
 
