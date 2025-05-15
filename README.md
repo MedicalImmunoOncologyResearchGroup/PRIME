@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/your-doi-here.svg)](https://doi.org/your-doi-here)
 
-> **Paper Citation:** Koskela et al. (2025). Integrative systems immunology analysis develops a new anti-PD1 prognostication model based on functional priming and reveals new targets involved in antigen presentation in melanoma. *Journal Name*. DOI: [link]
+> **Paper Citation:** Koskela et al. (2025). Novel Anti-PD1 Predictive Signature and Functional Dendritic-Cell Biomarkers in Melanoma Identified with Systems Immunology, *Journal Name*. DOI: [link]
 
 ## 📋 Overview
 
@@ -41,7 +41,7 @@ Python scripts use mostly standard libraries such as
 
 ## 🔍 Data Availability
 
-SAARA: Raw data is available at [repository/database name] under accession number [XXX]. Due to size constraints, this repository contains only processed data and analysis scripts.
+Raw data is available at [repository/database name] under accession number [XXX]. Due to size constraints, this repository contains only processed data and analysis scripts.
 
 
 ## 📜 License
@@ -54,17 +54,13 @@ If you use this code or data, please cite:
 
 ```bibtex
 @article{Koskela2025,
-  title={Integrative systems immunology analysis develops a new anti-PD1 prognostication model based on functional priming and reveals new targets involved in antigen presentation in melanoma},
+  title={ Novel Anti-PD1 Predictive Signature and Functional Dendritic-Cell Biomarkers in Melanoma Identified with Systems Immunology},
   author={Koskela, Saara and Pulkkinen, Otto and },
   journal={Journal Name},
   year={2025},
   doi={your-doi}
 }
 ```
-
-## 🤝 Contributing
-
-While this repository is primarily for archival purposes, if you find any issues or have suggestions, please open an issue in the GitLab repository.
 
 ## 📫 Contact
 
