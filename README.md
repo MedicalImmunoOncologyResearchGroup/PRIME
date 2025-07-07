@@ -19,14 +19,17 @@ This repository contains scripts and preprocessed data (within size limitations,
 
 ## 🔧 Requirements
 
-Python scripts use mostly standard libraries such as
+Python codes use mostly standard libraries such as
 
 - pandas
 - numpy
+- seaborn
 - matplotlib
-= scikit-learn
+- scikit-learn
 - scanpy
 - celltypist
+
+Jupyter notebooks were tested with Python version 3.10.12.
 
 ## 📊 Analysis Workflow
 
@@ -36,8 +39,9 @@ Python scripts use mostly standard libraries such as
 
 2. **Jupyter Notebooks** (`Jupyter/`)
    - Preprocessing of TPM-normalized data
-   - Prime model development and testing the predictive performance
+   - Prime model development and testing its predictive performance (response, OS, and PFS)
    - DEA and other analyses of Li cohort scRNA-seq data
+   - Anti-MAA analysis
 
 ## 🔍 Data Availability
 
@@ -46,7 +50,7 @@ Raw data is available at [repository/database name] under accession number [XXX]
 
 ## 📜 License
 
-This project is licensed under the [appropriate license] - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the XXX - see the [LICENSE](LICENSE) file for details. 
 
 ## ✍️ Citation
 
