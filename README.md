@@ -31,7 +31,7 @@ Python scripts use mostly standard libraries such as
 ## 📊 Analysis Workflow
 
 1. **R Codes** (`R/`)
-   - Contain analyses related to circaplot visualization  
+   - Contain analyses related to circos plot visualization  
    - A script for integration and DEA of Gide, Riaz and Hugo count data
 
 2. **Jupyter Notebooks** (`Jupyter/`)
