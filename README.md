@@ -59,7 +59,7 @@ If you use this code or data, please cite:
 ```bibtex
 @article{Koskela2025,
   title={Novel Anti-PD1 Predictive Signature and Functional Dendritic-Cell Biomarkers in Melanoma Identified with Systems Immunology},
-  author={Koskela, Saara and Pulkkinen, Otto and },
+  author={S. Koskela, O. Pulkkinen, A. Mehmood, R. Kallionpää, E.-M. Birkman , J. Huuhtanen, S. Mustjoki, S.E. Coupland, T. Aittokallio, M. Sundvall, C.R. Figueiredo},
   journal={Journal Name},
   year={2025},
   doi={your-doi}
