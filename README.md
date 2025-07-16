@@ -12,7 +12,6 @@ This repository contains scripts related to the development and testing of the P
 
 ```
 .
-├── data/           # Data files
 ├── R/              # Analysis scripts in R
 └── Jupyter/        # Analysis scripts in Python as Jupyter notebbok files
    
