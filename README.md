@@ -50,7 +50,7 @@ Data to run the codes are available to reviewers only.
 
 ## 📜 License
 
-This project is licensed under the XXX - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under MIT licence, see LICENSE file for details. 
 
 ## ✍️ Citation
 
