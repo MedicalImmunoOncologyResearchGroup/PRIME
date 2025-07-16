@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository contains scripts and preprocessed data (within size limitations, see below) related to the development and testing of the Prime model.
+This repository contains scripts related to the development and testing of the Prime model, and codes to produce figures in the manuscript. 
 
 ## 🗂️ Repository Structure
 
