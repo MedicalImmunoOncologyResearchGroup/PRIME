@@ -6,7 +6,7 @@
 
 ## 📋 Overview
 
-This repository contains scripts and preprocessed data (within size limitations, see below) related to the development and testing of the Prime model.
+This repository contains scripts related to the development and testing of the Prime model, and codes to produce figures in the manuscript. 
 
 ## 🗂️ Repository Structure
 
@@ -45,7 +45,7 @@ Jupyter notebooks were tested with Python version 3.10.12.
 
 ## 🔍 Data Availability
 
-Raw data is available at [repository/database name] under accession number [XXX]. Due to size constraints, this repository contains only processed data and analysis scripts.
+Data to run the codes are available to reviewers only.
 
 
 ## 📜 License
@@ -59,7 +59,7 @@ If you use this code or data, please cite:
 ```bibtex
 @article{Koskela2025,
   title={Novel Anti-PD1 Predictive Signature and Functional Dendritic-Cell Biomarkers in Melanoma Identified with Systems Immunology},
-  author={Koskela, Saara and Pulkkinen, Otto and },
+  author={S. Koskela, O. Pulkkinen, A. Mehmood, R. Kallionpää, E.-M. Birkman , J. Huuhtanen, S. Mustjoki, S.E. Coupland, T. Aittokallio, M. Sundvall, C.R. Figueiredo},
   journal={Journal Name},
   year={2025},
   doi={your-doi}
