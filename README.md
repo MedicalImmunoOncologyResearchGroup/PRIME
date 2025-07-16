@@ -45,7 +45,7 @@ Jupyter notebooks were tested with Python version 3.10.12.
 
 ## 🔍 Data Availability
 
-Raw data is available at [repository/database name] under accession number [XXX]. Due to size constraints, this repository contains only processed data and analysis scripts.
+Data to run the codes are available to reviewers only.
 
 
 ## 📜 License
